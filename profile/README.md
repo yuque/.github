@@ -18,7 +18,7 @@
 
 | Repository | Description | |
 |---|---|---|
-| [yuque-mcp-server](https://github.com/yuque/yuque-mcp-server) | MCP Server — 25 Tools for AI to read & write Yuque | [![npm](https://img.shields.io/npm/v/yuque-mcp)](https://www.npmjs.com/package/yuque-mcp) |
+| [yuque-mcp-server](https://github.com/yuque/yuque-mcp-server) | MCP Server — Tools for AI to read & write Yuque | [![npm](https://img.shields.io/npm/v/yuque-mcp)](https://www.npmjs.com/package/yuque-mcp) |
 | [yuque-ecosystem](https://github.com/yuque/yuque-ecosystem) | Official website, plugins, skills & config templates | [![Website](https://img.shields.io/badge/Website-live-blue)](https://yuque.github.io/yuque-ecosystem/) |
 
 ### Quick Start
